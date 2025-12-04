@@ -1,0 +1,7 @@
+{
+  "name": "Fahad.AI Voice Chat",
+  "description": "Real-time conversational voice agent using Gemini 2.5 Live API with low-latency audio streaming.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
